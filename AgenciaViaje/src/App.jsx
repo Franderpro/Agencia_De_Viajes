@@ -4,7 +4,9 @@ import HomeC from './componentes/HomeC'
 function App() {
   return (
     <>
-      <HomeC/>
+    <HomeC/>
+    
+      
     </>
   )
 }
